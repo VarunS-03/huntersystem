@@ -1,0 +1,6 @@
+{
+  "name": "Hunter System",
+  "description": "Solo Leveling inspired gamified habit and task system with rank progression, streak tracking, and daily cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
